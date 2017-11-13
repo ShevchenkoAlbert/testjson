@@ -2,7 +2,7 @@
   "navigation" : [
     {
         "title": "Html5",
-        "src":"@/img/html5.png",
+        "src": "../static/img/html5.png",
         "description": {
           "name-article" : "HTML5 — последняя версия стандарта HTML. Термин имеет два определения: Новая версия языка HTML, с новыми элементами, атрибутами и новым поведением. Набор технологий, позволяющий создавать разнообразные сайты и Web-приложения.",
           "name-article" : "позволяет точнее описывать, что из себя представляет ваш контент",
@@ -16,7 +16,7 @@
     },
     {
         "title": "CSS3",
-        "src": "@/img/css3.png",
+        "src": "../static/img/css3.png",
         "description": {
           "name-article" : "Some description",
           "name-article" : "Some description",
@@ -25,7 +25,7 @@
     },
     {
         "title": "JavaScript",
-        "src": "@/img/js.png",
+        "src": "../static/img/js.png",
         "description": {
           "name-article" : "Some description",
           "name-article" : "Some description",
@@ -34,7 +34,7 @@
     },
     {
         "title": "jQuery",
-        "src": "@/img/jquery.png",
+        "src": "../static/img/jquery.png",
         "description": {
           "name-article" : "Some description",
           "name-article" : "Some description",
@@ -43,7 +43,7 @@
     },
     {
         "title": "React.js",
-        "src":"@/img/react.png",
+        "src":"../static/img/react.png",
         "description": {
           "name-article" : "Some description",
           "name-article" : "Some description",
@@ -52,7 +52,7 @@
     },
     {
         "title": "Vue.js",
-        "src":"@/img/vuejs.png",
+        "src":"../static/img/vuejs.png",
         "description": {
           "name-article" : "Some description",
           "name-article" : "Some description",
@@ -61,7 +61,7 @@
     },
     {
         "title": "Angular.js",
-        "src":"@/img/angular.png",
+        "src":"../static/img/angular.png",
         "description": {
           "name-article" : "Some description",
           "name-article" : "Some description",
