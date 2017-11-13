@@ -49,7 +49,7 @@
           "name-article" : "Some description",
           "name-article" : "Some description"
         }
-    }
+    },
     {
         "title": "Vue.js",
         "src":"../img/vuejs.png",
@@ -58,7 +58,7 @@
           "name-article" : "Some description",
           "name-article" : "Some description"
         }
-    }
+    },
     {
         "title": "Angular.js",
         "src":"../img/angular.png",
